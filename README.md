@@ -11,7 +11,7 @@
 ---
 
 ### 🧠 About Me  
-I'm a **Full Stack Developer in training** and a **Systems Analysis and Development** student (2nd semester).  
+I'm a **Full Stack Developer** and a **Systems Analysis and Development** student (2nd semester).  
 Passionate about technology, learning, and turning ideas into real projects. 
 
 ---

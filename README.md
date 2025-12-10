@@ -3,7 +3,7 @@
 <h1 align="center">⚡ Hey there, I'm <span style="color:#7df9ff;">José Lucas</span> 👾</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack%20Dev%20in%20Training-7df9ff?style=for-the-badge&logo=code&logoColor=black" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20Dev%20-7df9ff?style=for-the-badge&logo=code&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=nodedotjs&logoColor=7df9ff" />
 </p>
